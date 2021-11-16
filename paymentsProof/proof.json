@@ -1,0 +1,29 @@
+{
+"paymentProof": [
+{
+"id": 1,
+"username": "test@gmail.com",
+"amount": "0.00001 BTC"
+},
+{
+"id": 2,
+"username": "test@gmail.com",
+"amount": "0.00001 BTC"
+},
+{
+"id": 3,
+"username": "test@gmail.com",
+"amount": "0.00001 BTC"
+},
+{
+"id": 4,
+"username": "test@gmail.com",
+"amount": "0.00001 BTC"
+},
+{
+"id": 5,
+"username": "test@gmail.com",
+"amount": "0.00001 BTC"
+}
+]
+}
