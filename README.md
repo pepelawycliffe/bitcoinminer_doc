@@ -4,20 +4,20 @@ bitcoinminer doc
 
 Are you looking for a bitcoin mining app? You are in the right place, with this app you can make users earn bitcoins by playing math games. This application will save you many hours of work.
 
-App Features:
-Animation Splash Screen
-Play Math Quiz to Earn Points
-Beautiful Background Colors
-User Login/SignUp
-User Profile
-Payment Proof
-Send Payment Request
-FAQ
-About App
-Send Feedback
-AddMob Ads: Banners and Interstitials
-AppLovin Ads: Banners and Interstitials
-Material UI Design
+App Features:<br><br>
+Animation Splash Screen<br>
+Play Math Quiz to Earn Points<br>
+Beautiful Background Colors<br>
+User Login/SignUp<br>
+User Profile<br>
+Payment Proof<br>
+Send Payment Request<br>
+FAQ<br>
+About App<br>
+Send Feedback<br>
+AddMob Ads: Banners and Interstitials<br>
+AppLovin Ads: Banners and Interstitials<br>
+Material UI Design<br>
 
 
 Admin Panel Features:
