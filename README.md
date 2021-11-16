@@ -20,16 +20,16 @@ AppLovin Ads: Banners and Interstitials<br>
 Material UI Design<br>
 
 
-Admin Panel Features:
-Dashboard with Statistics: TOTAL USERS, FEEDBACK MESSAGES, NOTIFICATIONS, DELETED USERS, PAYMENTS REQUESTS
-Users List: Manage Users
-Manage Feedback
-Manage Payments Requests
-Notifications
-Deleted Users
-Profile Settings
-Push Notification
-Privacy Policy
+Admin Panel Features:<br><br>
+Dashboard with Statistics: TOTAL USERS, FEEDBACK MESSAGES, NOTIFICATIONS, DELETED USERS, PAYMENTS REQUESTS<br>
+Users List: Manage Users<br>
+Manage Feedback<br>
+Manage Payments Requests<br>
+Notifications<br>
+Deleted Users<br>
+Profile Settings<br>
+Push Notification<br>
+Privacy Policy<br>
 
 
 • What You Get :
